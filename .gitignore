@@ -5,8 +5,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 package-lock.json
-# (Lockfile ekak use karanawanam eka repo eke keep karanna.
-# Igenaganna one nam me line eka ain karanna.)
 
 # Vite / build outputs
 dist/
