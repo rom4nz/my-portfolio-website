@@ -1,0 +1,46 @@
+# Node / dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+# (Lockfile ekak use karanawanam eka repo eke keep karanna.
+# Igenaganna one nam me line eka ain karanna.)
+
+# Vite / build outputs
+dist/
+.vite/
+vite.svg
+
+# Testing / coverage
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+cypress/videos/
+cypress/screenshots/
+
+# Env files (private keys, API keys, etc.)
+.env
+.env.*.local
+.env.local
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Lint/format caches
+.eslintcache
+.stylelintcache
+
+# Logs
+*.log
+
+# Optional: if you export static builds or temp files
+.tmp/
+cache/
