@@ -1,12 +1,12 @@
 {
-  "name": "my-portfolio-website",
+  "name": "rom4nz.github.io",
   "private": true,
   "version": "0.0.0",
   "homepage": "https://rom4nz.github.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
