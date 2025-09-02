@@ -2,7 +2,7 @@
   "name": "my-portfolio-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rom4nz.github.io/my-portfolio-website",
+  "homepage": "https://rom4nz.github.io",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
