@@ -101,7 +101,7 @@ const Slide = ({
                         {technologies.map((tech, i) => (
                             <span
                                 key={i}
-                                className="flex items-center px-3 py-1 rounded-full text-xs font-semibold min-w-[48px] shadow-md bg-gradient-to-r from-[#6D64F7]/90 to-[#A084E8]/90 text-white hover:from-[#A084E8] hover:to-[#6D64F7] transition-all duration-200 cursor-pointer backdrop-blur-sm"
+                                className="flex items-center px-2 py-0.5 md:px-3 md:py-1 rounded-full text-[10px] md:text-xs font-semibold min-w-[36px] md:min-w-[48px] shadow-md bg-gradient-to-r from-[#6D64F7]/90 to-[#A084E8]/90 text-white hover:from-[#A084E8] hover:to-[#6D64F7] transition-all duration-200 cursor-pointer backdrop-blur-sm"
                                 title={tech}
                             >
                                 <span className="whitespace-nowrap drop-shadow-sm">{tech}</span>
